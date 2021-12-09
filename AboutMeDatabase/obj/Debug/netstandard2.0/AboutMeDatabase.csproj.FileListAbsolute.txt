@@ -1,0 +1,14 @@
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/AboutMeDatabase.AssemblyInfoInputs.cache
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/AboutMeDatabase.AssemblyInfo.cs
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/AboutMeDatabase.csproj.CoreCompileInputs.cache
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/bin/Debug/netstandard2.0/AboutMeDatabase.deps.json
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/bin/Debug/netstandard2.0/AboutMeDatabase.dll
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/bin/Debug/netstandard2.0/ref/AboutMeDatabase.dll
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/bin/Debug/netstandard2.0/AboutMeDatabase.pdb
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/AboutMeDatabase.dll
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/ref/AboutMeDatabase.dll
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/AboutMeDatabase.pdb
+/Users/cobjclteach/Projects/AboutMeDatabase/AboutMeDatabase/obj/Debug/netstandard2.0/AboutMeDatabase.csprojAssemblyReference.cache
